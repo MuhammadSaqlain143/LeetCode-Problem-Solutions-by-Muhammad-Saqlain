@@ -2,6 +2,15 @@
 
 Welcome to my LeetCode problem solutions repository! This repository contains my solutions to various LeetCode problems, each accompanied by detailed explanations and multiple programming language implementations.
 
+# [LeetCode](https://leetcode.com/problemset/all/)
+
+![Language](https://img.shields.io/badge/language-Python%20%2F%20Modern%20C++-orange.svg)&nbsp;
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](./LICENSE.md)&nbsp;
+![Update](https://img.shields.io/badge/update-weekly-green.svg)&nbsp;
+![Progress](https://img.shields.io/badge/progress-3009%20%2F%203009-ff69b4.svg)&nbsp;
+[![SayThanks](https://img.shields.io/badge/say-thanks-ff69f4.svg)](https://saythanks.io/to/kamyu104)&nbsp;
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=kamyu104.leetcode.solutions)
+
 ## Table of Contents
 
 - [Features](#features)
